@@ -8,4 +8,7 @@ public class hello{
     public static void greeting(){
         System.out.println("hello hello");
     }
+    public static void isow(){
+
+    };
 }

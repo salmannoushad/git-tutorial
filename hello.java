@@ -7,4 +7,7 @@ public class hello{
 public static void message(){
     System.out.println("Hurrey!! now we are able to contribute open source...");
 }
+public static void add(int a, int b){
+    
+}
 }

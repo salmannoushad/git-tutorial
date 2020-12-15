@@ -11,4 +11,7 @@ public class hello{
     public static int sqr(int x){
         return x;
     }
+    public static void isow(){
+
+    };
 }
